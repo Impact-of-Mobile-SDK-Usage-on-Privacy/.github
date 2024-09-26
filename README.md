@@ -20,8 +20,12 @@ Both tools are constantly developed and managed using [their own org]().
 For instructions on how to conduct measurements and analysis using the tools refer to that org.
 
 This organization contains the [measurement]() and [analysis]() specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
+While each code compiles we replaced the identifiers used for each SDK with placeholders as those are tied to us personally.
+Thus, to successfully run the apps you have to create your own account.
+Furthermore, developing and deploying iOS applications requires an Apple Developer Account and Apple hardware to run the corresponding development tools.
+Due to those hindrances we only provide the code as is and only inquire for the `available` artifact level.
 
-## Analytics
+## Analytics Apps
 
 | SDK  | Android | iOS |
 |------|---------|-----|
@@ -31,7 +35,7 @@ This organization contains the [measurement]() and [analysis]() specific plugins
 |   | [repo]()  | [repo]()  |
 |   | [repo]()  | [repo]()  |
 
-## Advertisement
+## Advertisement Apps
 
 | SDK  | Android | iOS |
 |------|---------|-----|
