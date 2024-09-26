@@ -19,7 +19,7 @@ We measured the traffic of those default implementations using the [scala-appana
 Both tools are constantly developed and managed using [their own org]().
 For instructions on how to conduct measurements and analysis using the tools refer to that org.
 
-As our artifact this repository contains the [measurement]() and [analysis]() specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
+This organization contains the [measurement]() and [analysis]() specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
 
 ## Analytics
 
