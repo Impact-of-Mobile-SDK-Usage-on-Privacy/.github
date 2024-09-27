@@ -15,8 +15,8 @@ If you find this code helpful or the paper relevant to your work please cite us 
 ## Contents
 
 During our research, we developed ten Android and iOS applications utilizing 5 different analytics and advertising SDKs.
-We measured the traffic of those default implementations using the [scala-appanalyzer]() and analyzed the collected traffic using the [scala-plotalyzed]().
-Both tools are constantly developed and managed using [their own org]().
+We measured the traffic of those default implementations using the [scala-appanalyzer](https://github.com/App-Analysis/scala-appanalyzer) and analyzed the collected traffic using the [scala-plotalyzed](https://github.com/App-Analysis/scala-plotalyzer).
+Both tools are constantly developed and managed using [their own org](https://github.com/App-Analysis).
 For instructions on how to conduct measurements and analysis using the tools refer to that org.
 
 This organization contains the [measurement]() and [analysis]() specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
