@@ -33,7 +33,7 @@ Due to those hindrances we only provide the code as is and only inquire for the 
 | Amplitude  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-ios)  |
 | AppsFlyer  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-ios)  |
 | Firebase  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Firebase-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Firebase-ios)  |
-|   | [repo]()  | [repo]()  |
+| Flurry  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Flurry-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Flurry-ios)  |
 
 ## Advertisement Apps
 
