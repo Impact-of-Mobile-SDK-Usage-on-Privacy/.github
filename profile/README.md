@@ -41,6 +41,6 @@ Due to those hindrances we only provide the code as is and only inquire for the 
 |------|---------|-----|
 | Unity3d  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Unity3DAds-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Unity3DAds-ios)  |
 | FacebookAds  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/FacebookAds-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/FacebookAds-ios)  |
-|   | [repo]()  | [repo]()  |
+| AdMob  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AdMob-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AdMob-ios)  |
 |   | [repo]()  | [repo]()  |
 |   | [repo]()  | [repo]()  |
