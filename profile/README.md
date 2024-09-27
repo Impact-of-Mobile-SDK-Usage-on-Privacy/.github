@@ -30,7 +30,7 @@ Due to those hindrances we only provide the code as is and only inquire for the 
 | SDK  | Android | iOS |
 |------|---------|-----|
 | Meta App Events  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-ios)  |
-|   | [repo]()  | [repo]()  |
+| Amplitude  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-ios)  |
 |   | [repo]()  | [repo]()  |
 |   | [repo]()  | [repo]()  |
 |   | [repo]()  | [repo]()  |
