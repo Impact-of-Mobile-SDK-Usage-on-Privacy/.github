@@ -31,7 +31,7 @@ Due to those hindrances we only provide the code as is and only inquire for the 
 |------|---------|-----|
 | Meta App Events  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/MetaAppEvents-ios)  |
 | Amplitude  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/Amplitude-ios)  |
-|   | [repo]()  | [repo]()  |
+| AppsFlyer  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-android)  | [repo](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/AppsFlyer-ios)  |
 |   | [repo]()  | [repo]()  |
 |   | [repo]()  | [repo]()  |
 
