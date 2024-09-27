@@ -19,7 +19,7 @@ We measured the traffic of those default implementations using the [scala-appana
 Both tools are constantly developed and managed using [their own org](https://github.com/App-Analysis).
 For instructions on how to conduct measurements and analysis using the tools refer to that org.
 
-This organization contains the [measurement]() and [analysis]() specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
+This organization contains the [measurement](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plugin-measurement) and [analysis](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plugin-analysis) specific plugins as well as the code of our sample applications in separate repositories for the differen SDKs and OS.
 While each code compiles we replaced the identifiers used for each SDK with placeholders as those are tied to us personally.
 Thus, to successfully run the apps you have to create your own account.
 Furthermore, developing and deploying iOS applications requires an Apple Developer Account and Apple hardware to run the corresponding development tools.
