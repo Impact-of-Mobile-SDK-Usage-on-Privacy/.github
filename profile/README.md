@@ -12,7 +12,7 @@ If you find this code helpful or the paper relevant to your work please cite us 
 }
 ```
 
-The official [ARTIFACT-EVALUATION](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/artifact/blob/07fb83f192172cc0e877afd1dce183467abf8955/ARTIFACT-EVALUATION.md) and [artifact](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/artifact/tree/07fb83f192172cc0e877afd1dce183467abf8955) repository represent the state of this artifact present during the badge evaluation.
+The official [ARTIFACT-EVALUATION.md](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/artifact/blob/07fb83f192172cc0e877afd1dce183467abf8955/ARTIFACT-EVALUATION.md) and [artifact](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/artifact/tree/07fb83f192172cc0e877afd1dce183467abf8955) repository represent the state of this artifact present during the badge evaluation.
 
 ## Contents
 
