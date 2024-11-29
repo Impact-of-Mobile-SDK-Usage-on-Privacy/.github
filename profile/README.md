@@ -26,7 +26,8 @@ While each code compiles we replaced the identifiers used for each SDK with plac
 Thus, to successfully run the apps you have to create your own account.
 Furthermore, developing and deploying iOS applications requires an Apple Developer Account and Apple hardware to run the corresponding development tools.
 Due to those hindrances we only provide the code as is and only inquire for the `available` artifact level.
-We also added our [plotting code](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plotting).
+We also added our [plotting code](https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/plotting) with a requirements.txt for the required python packages. 
+Using the analysis-plugin results in a json file that can be processed by this code.
 
 ## Analytics Apps
 
